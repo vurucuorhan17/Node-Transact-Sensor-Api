@@ -4,7 +4,7 @@ const mysql = require("mysql");
 const conn = mysql.createPool({
     host: "localhost",
     user: "root",
-    password: "eyyobass",
+    password: "pass",
     database: "sensorDataDB"
 });
 
